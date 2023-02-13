@@ -28,4 +28,6 @@ The KPrototype algorithm was applied to the preprocessed data, and the results w
 
 This project demonstrates the use of KPrototype-based clustering in PySpark on Azure Databricks to segment students of the Open University. The KPrototype algorithm was able to handle both numerical and categorical data, providing a comprehensive representation of the students. The results of the clustering process can be used to gain a deeper understanding of the characteristics of the students and to develop targeted strategies to better support their learning experience.
 
+## Limitations
 
+Please note that due to privacy reasons, the data used in this project cannot be provided. This limits the ability to replicate the results of this study and to fully understand the methods and techniques used.
