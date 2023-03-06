@@ -22,7 +22,7 @@ A Hopkins test was performed to check the suitability of the data for clustering
 
 ## Clustering Results
 
-The KPrototype algorithm was applied to the preprocessed data, and the results were visualized to understand the characteristics of the clusters formed. The number of clusters was determined based on the results of the Hopkins test and the visualizations of the data. The results of the clustering process can be used to better understand the characteristics of the students in each cluster and to develop targeted strategies for each group.
+The KPrototype algorithm was applied to the preprocessed data, and the results were visualized to understand the characteristics of the clusters formed. The number of clusters was determined based on the results of the Elbow graph and the visualizations of the data. The results of the clustering process can be used to better understand the characteristics of the students in each cluster and to develop targeted strategies for each group.
 
 ## Conclusion
 
